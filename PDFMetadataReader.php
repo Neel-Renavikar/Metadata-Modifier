@@ -2,8 +2,8 @@
 /**
  * Class for reading pdf meta data
  *
- * @link https://github.com/aqlx86/pdf-metadata-reader
- * @author Arnel Labarda <aqlx86@gmail.com>
+ * @link https://github.com/Neel-Renavikar/Pdf_metaeditor
+ * @author Neel Renavikar <neel.renavikar@gmail.com>
  */
 class PDFMetadataReader {
 	
