@@ -1,4 +1,4 @@
-# Metadata-Modifier
-A web application that reads the metadata from documents and modifies the metadata.
+# Pdf_metaeditor
+A web application that reads the metadata from pdf documents and modifies the metadata.
 
-Coded in asp.net and c# , this project is still a work in progress!
+Coded in php and html , this project is still a work in progress!
